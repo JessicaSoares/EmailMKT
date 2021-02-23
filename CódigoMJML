@@ -1,0 +1,68 @@
+<mjml>
+  <mj-body background-color="#FFFFFE" color="#FFFFFE" font-family="Arial, sans-serif">
+    </mj-section>
+    <mj-section background-color="#FFFFFE" padding-bottom="0px" padding-top="0">
+      <mj-column width="47.33333333333333%" vertical-align="top">
+        <mj-text align="center" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><a href="https://mjml.io"><span style="color: 00000"> <b>Descontos para você aproveitar</b></span></a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="23.33333333333333%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><a href="https://mjml.io"><span> <b>Ver online</b></span></a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="28.33333333333333%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <p><a href="https://mjml.io"><span> <b>Descadastre-se</b> </span></a></p>
+        </mj-text>
+      </mj-column>
+      <mj-section background-color="#000000" padding-bottom="20px" padding-top="20">
+        <mj-column width="100%" vertical-align="top">
+          <mj-image href="https://mjml.io" src="https://www.logaster.com/blog/wp-content/uploads/2020/03/0073.png" alt="logo" align="center" border="none" width="182px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-section>
+      <mj-section background-color="#000000" padding-bottom="0px" padding-top="3px">
+        <mj-column width="23.33333333333333%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
+            <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);"><b>Promoções</b></span></a></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25.33333333333333%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+            <p><a href="https://mjml.io" style="text-decoration: none; "><span style="color: rgb(255, 255, 255);"><b>Benefícios</b></span></a></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25.33333333333333%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+            <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);"><b> Pessoais</b></span></a></p>
+          </mj-text>
+        </mj-column>
+        <mj-column width="25.33333333333333%" vertical-align="top">
+          <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-top="10">
+            <p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);"><b>Empresariais</b></span></a></p>
+          </mj-text>
+        </mj-column>
+      </mj-section>
+      <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width" padding-bottom="0px" padding-top="0">
+        <mj-column width="100%" vertical-align="middle">
+          <mj-image href="https://www.arturia.com/products/ipad-synths/ispark/overview" align="center" border="none" src="https://i.imgur.com/kCj79EV.png"></mj-image>
+          <mj-image href="https://mjml.io" src="https://i.imgur.com/WnK2PDz.png" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width" padding-bottom="0px" padding-top="0">
+        <mj-column width="45%" vertical-align="middle">
+          <mj-image href="https://mjml.io" src="https://i.imgur.com/ipGymDG.png" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="45%" vertical-align="middle">
+          <mj-image href="https://mjml.io" src="https://i.imgur.com/rjR52Sd.png" alt=""></mj-image>
+        </mj-column>
+      </mj-section>
+      <mj-section vertical-align="middle" background-color="#717171" full-width="full-width" padding-bottom="0px" padding-top="0">
+        <mj-column width="100%" vertical-align="middle">
+          <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://i.imgur.com/yo2JXN7.png" target="_blank" title="" width="780px"></mj-image>
+          <mj-button background-color="#FFFFFF" color="#ee4022" border-radius="24px" font-size="15px" align="center" vertical-align="middle" border="none" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif"><b>CLIQUE AQUI</b> </mj-button>
+          <mj-image align="center" border="none" padding-bottom="0px" padding-left="0px" padding-right="0px" padding="0px 25px" src="https://i.imgur.com/XtZzWX3.png" target="_blank" title="" width="780px"></mj-image>
+        </mj-column>
+      </mj-section>
+  </mj-body>
+</mjml>
